@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/skhan/anaconda3/envs/emotion_analyzer_env/bin/python",
+    "python.pythonPath": "C:\\Users\\Shake\\anaconda3\\envs\\keras-gpu\\python.exe",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true
 }
